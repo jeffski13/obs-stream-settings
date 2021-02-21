@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "bwtest": false,
+        "key": "live_102709495_HKAq2cWRAauCfUMUmBnDUTSNRarcv0",
+        "server": "rtmp://dfw.contribute.live-video.net/app",
+        "service": "Twitch"
+    },
+    "type": "rtmp_common"
+}
